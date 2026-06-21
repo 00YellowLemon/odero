@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mobitop Shop - AI Order Assistant",
-  description: "Real-time AI assistant for Mobitop Mobile Spare Parts in Nairobi. Check inventory, verify product stock, calculate order totals, and draft orders.",
+  title: "Odero Shop - AI Order Assistant",
+  description: "Real-time AI assistant for Odero Mobile Spare Parts in Nairobi. Check inventory, verify product stock, calculate order totals, and draft orders.",
 };
 
 export default function RootLayout({
