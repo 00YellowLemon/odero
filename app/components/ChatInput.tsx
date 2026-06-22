@@ -61,7 +61,7 @@ export default function ChatInput({
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={handleKeyDown}
-            placeholder="Message Mobitop Order Assistant..."
+            placeholder="Message Odero Order Assistant..."
             className="w-full resize-none bg-transparent border-0 focus:ring-0 outline-none text-sm text-zinc-800 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 py-2.5 px-3 max-h-40 min-h-[40px] scrollbar-thin scrollbar-thumb-zinc-200 dark:scrollbar-thumb-zinc-800 leading-relaxed font-sans"
           />
           
@@ -93,7 +93,7 @@ export default function ChatInput({
         </div>
         
         <p className="text-[10px] text-center text-zinc-650 dark:text-zinc-500 mt-2 select-none">
-          Mobitop AI Agent can make mistakes. Please verify availability, stock status, pricing, and orders with human staff.
+          Odero AI Agent can make mistakes. Please verify availability, stock status, pricing, and orders with human staff.
         </p>
       </form>
     </div>

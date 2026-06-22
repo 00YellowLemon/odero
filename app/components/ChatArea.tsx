@@ -89,7 +89,7 @@ export default function ChatArea({
           )}
           <div className="flex items-center gap-1.5 ml-1">
             <span className="font-semibold text-zinc-800 dark:text-zinc-100 text-sm md:text-base">
-              Mobitop Order Assistant
+              Odero Order Assistant
             </span>
             <span className="text-[10px] bg-amber-500/10 text-amber-600 dark:bg-amber-500/20 dark:text-amber-400 font-semibold px-2 py-0.5 rounded-full select-none">
               AI Agent
@@ -120,7 +120,7 @@ export default function ChatArea({
             
             <div className="space-y-2.5">
               <h1 className="text-2xl md:text-3xl font-extrabold text-zinc-900 dark:text-zinc-50 tracking-tight">
-                Mobitop Mobile Spare Parts
+                Odero Mobile Spare Parts
               </h1>
               <p className="text-sm md:text-base text-zinc-650 dark:text-zinc-400 max-w-md mx-auto leading-relaxed">
                 Welcome! I can help you search inventory, verify spare part availability, calculate order totals, and create order drafts for mobile phones and tablet parts.

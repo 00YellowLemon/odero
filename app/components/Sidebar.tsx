@@ -87,7 +87,7 @@ export default function Sidebar({
             <div className="bg-amber-500 p-1.5 rounded-lg text-zinc-950 flex items-center justify-center">
               <Smartphone className="h-4 w-4" />
             </div>
-            <span className="text-sm font-bold tracking-tight">Mobitop Shop</span>
+            <span className="text-sm font-bold tracking-tight">Odero Shop</span>
           </div>
           <button
             onClick={() => setIsSidebarOpen(false)}
